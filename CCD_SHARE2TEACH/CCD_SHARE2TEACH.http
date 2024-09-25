@@ -1,0 +1,6 @@
+@CCD_SHARE2TEACH_HostAddress = http://localhost:5159
+
+GET {{CCD_SHARE2TEACH_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
